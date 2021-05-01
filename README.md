@@ -7,7 +7,7 @@ A boilerplate forbuilding we projects with [Gulp.js](https://gulpjs.com/ "Gulp.j
 3. Optimise GIF, JPEG, PNG and SVG images
 4. Hot reloading with browser-sync
 
-##Quick Start
+### Quick Start
 
  1- Clone this repo
 git clone https://github.com/kodemre/boilerplate.git
@@ -23,5 +23,5 @@ npm run start
 
 ------------
 
-##Requirements
+### Requirements
 This project requires you have [Node.js](https://nodejs.org/en/ "Node.js") with [npm](https://www.npmjs.com/get-npm "npm") installed. This project requires you have a global installation of [gulp-cli](https://www.npmjs.com/package/gulp-cli "gulp-cli").
