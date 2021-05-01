@@ -1,7 +1,7 @@
 # boilerplate
 A boilerplate forbuilding we projects with [Gulp.js](https://gulpjs.com/ "Gulp.js")
-##Getting Started
-###Features
+## Getting Started
+### Features
 1. Compile, minify, concatenate and autoprefix SASS files
 2. Compile and concatenate JavaScript
 3. Optimise GIF, JPEG, PNG and SVG images
