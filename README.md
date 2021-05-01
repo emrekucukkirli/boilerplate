@@ -1,5 +1,5 @@
 # boilerplate
-A boilerplate forbuilding we projects with [Gulp.js](https://gulpjs.com/ "Gulp.js")
+A boilerplate for building we projects with [Gulp.js](https://gulpjs.com/ "Gulp.js")
 ## Getting Started
 ### Features
 1. Compile, minify, concatenate and autoprefix SASS files
