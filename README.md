@@ -9,18 +9,18 @@ A boilerplate for building we projects with [Gulp.js](https://gulpjs.com/ "Gulp.
 
 ### Quick Start
 
- 1- Clone this repo
-```git clone https://github.com/kodemre/boilerplate.git
-```
+` 1- Clone this repo
+git clone https://github.com/kodemre/boilerplate.git
+
  2- Navigate into the repo directory
-``cd boilerplate``
+cd boilerplate
 
  3- Install all node packages
-`npm install
-`
+npm install
+
 4- Get started
 npm run start
-
+`
 ------------
 
 ### Requirements
