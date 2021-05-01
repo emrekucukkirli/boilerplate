@@ -10,8 +10,7 @@ A boilerplate for building we projects with [Gulp.js](https://gulpjs.com/ "Gulp.
 ### Quick Start
 
  1- Clone this repo
-git clone https://github.com/kodemre/boilerplate.git
-
+```git clone https://github.com/kodemre/boilerplate.git```
  2- Navigate into the repo directory
 cd boilerplate
 
